@@ -12,7 +12,7 @@
 ---
 
 ### 👋 Hey there! 
-I am a **MERN Stack Developer** and **AI Engineer** based in Uttar Pradesh, India. I specialize in turning creative sparks into fully functional, deployed web applications. If an idea hits me, a new project hits the internet
+I am a **MERN Stack Developer** and **AI Engineer** based in Uttar Pradesh, India. I specialize in turning creative sparks into fully functional, deployed web applications. If an idea hits me, a new project hits the internet.
 
 - 🎓 **Education:** IT Student looking for opportunities in MNCs & innovative startups.
 - 💡 **Passion:** Building scalable web architectures and integrating intelligent AI features.
